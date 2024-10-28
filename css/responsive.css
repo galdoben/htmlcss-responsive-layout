@@ -1,0 +1,43 @@
+/* Soluzione qui */
+
+@media screen and (min-width: 768px) {
+    #topbar{
+        display: block;
+    }
+    .recipe-name{
+        font-size: 2rem;
+    }
+
+    .recipe-origin{
+        display: block;
+        display: inline-block;
+    }
+
+
+
+
+
+    .quick-notes ul{
+        display: flex;
+        flex-wrap: wrap;
+    
+    }
+
+    .quick-notes ul li{
+        width: calc(100% /3);
+    }
+
+    .btn{
+        padding: 10px 45px;
+    }
+
+    .ads{
+        display: block;
+    }
+
+    .clearfix img{
+        float: left;
+        padding: 0px 8px;
+    }
+
+}

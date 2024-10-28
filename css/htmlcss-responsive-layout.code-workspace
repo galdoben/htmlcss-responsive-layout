@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../htmlcss-responsive-layout"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "htmlcss-responsive-layout"
+	}
+}
